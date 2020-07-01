@@ -6,7 +6,7 @@ GEM
     mustermann (1.1.1)
       ruby2_keywords (~> 0.0.1)
     rack (2.2.3)
-    rack-protection (2.0.0)
+    rack-protection (2.0.2)
       rack
     rack-test (0.7.0)
       rack (>= 1.0, < 3)
@@ -25,10 +25,10 @@ GEM
     rspec-support (3.6.0)
     ruby2_keywords (0.0.2)
     sequel (5.33.0)
-    sinatra (2.0.0)
+    sinatra (2.0.2)
       mustermann (~> 1.0)
       rack (~> 2.0)
-      rack-protection (= 2.0.0)
+      rack-protection (= 2.0.2)
       tilt (~> 2.0)
     sqlite3 (1.4.2)
     tilt (2.0.10)
@@ -41,7 +41,7 @@ DEPENDENCIES
   rack-test (= 0.7.0)
   rspec (= 3.6.0)
   sequel
-  sinatra (= 2.0.0)
+  sinatra (= 2.0.2)
   sqlite3
 
 BUNDLED WITH
